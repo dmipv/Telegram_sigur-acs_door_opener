@@ -1,0 +1,12 @@
+#BOT, где token_api - токен бота телеграм, users - список пользователей, которым разрешен доступ к боту.
+token_api: 'token:token'
+users: [tg_user_id]
+
+#ACS Sigur OIF connection params
+server_ip: 127.0.0.1
+server_port: 3312
+login: 'login'
+password: 'password'
+
+#ACS Sigur doors params
+
